@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bijan-K/Food-ClassifierCode/blob/main/Food_Classifier.ipynb)
 # Food-ClassifierCode
 
 This is the final project of Daniel Bourke's [pytorch course](https://www.learnpytorch.io/). You can try the model [here](https://huggingface.co/spaces/bijankn/EfficientNetb2-foodClassifier).
